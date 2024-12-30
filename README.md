@@ -40,10 +40,6 @@ WeatherVista is licensed under the [MIT License](LICENSE.md).[![License: MIT](ht
 Feel free to customize and use it in your projects. 
 
 
-## Author
-
-[Mohammad Wasim Tikki](https://github.com/wasimtikki120)
-
 ## Contribution
 
 Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTING.md).
